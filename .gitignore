@@ -1,0 +1,8 @@
+venv/
+local/
+.python-version
+.pytest_cache/
+.idea/
+*.mpeg
+*.png
+__pycache__
